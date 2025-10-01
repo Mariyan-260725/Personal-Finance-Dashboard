@@ -26,4 +26,4 @@ Includes both income and expense records categorized for analysis
 🗂 Well-structured Data Model: Ensures accurate calculations and reporting
 
 6.Snapshot
-(https://github.com/Mariyan-260725/Personal-Finance-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+(https://github.com/Mariyan-260725/Personal-Finance-Dashboard/blob/main/Snapshot%20of%20Personal%20Finance%20Dashboard.png)
