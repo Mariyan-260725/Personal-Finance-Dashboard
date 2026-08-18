@@ -14,7 +14,7 @@ Data Modelling
 
 4. Data Source-
 Personal transactions data (manually recorded in an Excel sheet),
-Data covers entries starting from 23-09-2025 &
+Data covers entries starting from 31-03-2026 &
 Includes both income and expense records categorized for analysis
 
 5. Features and Highlights-
@@ -26,4 +26,4 @@ Includes both income and expense records categorized for analysis
 🗂 Well-structured Data Model: Ensures accurate calculations and reporting
 
 6.Snapshot
-(https://github.com/Mariyan-260725/Personal-Finance-Dashboard/blob/main/Snapshot%20of%20Personal%20Finance%20Dashboard.png)
+(https://github.com/Mariyan-260725/Personal-Finance-Dashboard/blob/main/Snapshot%20of%20Financial%20Dashboard.png)
